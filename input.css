@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* FONTS */
+@font-face {
+  font-family: "Robot-Regular";
+  src: url("./fonts/Roboto/Roboto-Regular.ttf");
+}
+@font-face {
+  font-family: "Robot-Bold";
+  src: url("./fonts/Roboto/Roboto-Bold.ttf");
+}
+@font-face {
+  font-family: "Robot-Light";
+  src: url("./fonts/Roboto/Roboto-Light.ttf");
+}
+@font-face {
+  font-family: "Marck-Regular";
+  src: url("./fonts/Marck_Script/MarckScript-Regular.ttf");
+}
+/* FONTS */
+
+/* SCROLLBAR */
+::-webkit-scrollbar {
+  width: 5px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/* end SCROLLBAR */
+
+/* COMPONENTS */
+
+.nav {
+  @apply fixed text-sm font-RobotoL w-screen h-12 m-auto flex justify-between items-center px-44 max-lg:px-28 max-md:hidden;
+}
