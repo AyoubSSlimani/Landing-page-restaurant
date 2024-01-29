@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+html,
+body {
+  scroll-behavior: smooth;
+}
 /* FONTS */
 @font-face {
   font-family: "Robot-Regular";
@@ -41,5 +45,28 @@
 /* COMPONENTS */
 
 .nav {
-  @apply fixed text-sm font-RobotoL w-screen h-12 m-auto flex justify-between items-center px-44 max-lg:px-28 max-md:hidden;
+  @apply fixed text-sm font-RobotoL w-screen h-12 m-auto flex justify-between items-center px-44 max-lg:px-28 flex-row max-md:px-12 duration-500 z-50;
+}
+
+input {
+  outline: none;
+}
+input:focus {
+  outline: 2px solid skyblue;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
+input::placeholder {
+  font-size: 12px;
+}
+
+textarea {
+  outline: none;
+}
+textarea:focus {
+  outline: 2px solid skyblue;
 }

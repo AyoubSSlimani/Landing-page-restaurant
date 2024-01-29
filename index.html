@@ -15,10 +15,13 @@
   </head>
   <body class="font-RobotoL animate-fade overflow-x-hidden">
     <!-- HEADER -->
-    <header class="w-screen h-screen">
+    <header class="w-screen h-screen" id="home">
       <div
         class="relative w-screen h-screen text-white"
-        style="background: url('./image/home1.jpg') center/cover"
+        style="
+          background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+            url('./image/home1.jpg') center/cover;
+        "
       >
         <!-- NAV -->
         <nav
@@ -27,41 +30,74 @@
           style="background-color: rgb(16, 21, 15, 0.5)"
           id="nav"
         >
-          <a href="#home">Logo</a>
-          <div class="flex gap-8">
-            <a href="#">Home</a>
-            <a href="#">Notre histoire</a>
-            <a href="#">Menu</a>
-            <a href="#">Contacts</a>
+          <a href="#home" class="font-MarckR text-lg" style="color: #d19b6f"
+            >Restaurantes</a
+          >
+          <div class="flex gap-8 max-md:hidden">
+            <a href="#home">Home</a>
+            <a href="#histoire">Notre histoire</a>
+            <a href="#menu">Menu</a>
+            <a href="#reservation">Réservation</a>
+          </div>
+          <button
+            type="button"
+            id="burgerbutton"
+            class="z-50 hidden max-md:block"
+          >
+            <i class="fa-solid fa-burger duration-500" id="burgerbuttonimg"></i>
+          </button>
+
+          <div
+            class="invisible absolute top-0 right-0 z-40 w-screen h-screen duration-700 flex flex-col gap-5 justify-center items-center uppercase text-xs"
+            style="
+              background-color: rgb(16, 21, 15, 0.8);
+              transform: translateX(75%);
+            "
+            id="burgermenu"
+          >
+            <a
+              href="#home"
+              class="p-3 rounded-lg bg-gradient-to-r from-zinc-950 to-zinc-800"
+              >Home</a
+            >
+            <a
+              href="#histoire"
+              class="p-3 rounded-lg bg-gradient-to-r from-zinc-950 to-zinc-800"
+              >Notre histoire</a
+            >
+            <a
+              href="#menu"
+              class="p-3 rounded-lg bg-gradient-to-r from-zinc-950 to-zinc-800"
+              >Menu</a
+            >
+            <a
+              href="#reservation"
+              class="p-3 rounded-lg bg-gradient-to-r from-zinc-950 to-zinc-800"
+              >Réservation</a
+            >
           </div>
         </nav>
         <!-- END NAV -->
-        <!-- BURGER NAV -->
-        <nav
-          aria-label="smallnav"
-          class="hidden max-md:flex flex-row h-12 justify-between items-center px-12"
-          style="background-color: rgb(16, 21, 15, 0.5)"
-        >
-          <a href="#home">Logo</a>
-          <button type="button" id="burgerbutton">
-            <i class="fa-solid fa-burger"></i>
-          </button>
-        </nav>
-        <!-- END BURGER NAV -->
         <div
-          class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 duration-1000"
+          class="absolute w-max text-center left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 duration-1000"
           id="title"
         >
           <h1 class="text-4xl">Turkish coffee</h1>
+          <img
+            src="./image/bordereauwhite.png"
+            alt="bordereau"
+            class="m-auto w-3/4 pt-2"
+          />
         </div>
       </div>
     </header>
     <!-- HEADER -->
     <!-- CORPS -->
     <main class="">
+      <!-- HISTOIRE -->
       <section
-        class="w-screen bg-white flex max-md:flex-col max-md:items-center"
-        style="height: 300px"
+        class="w-screen h-full bg-white flex max-md:flex-col max-md:items-center"
+        id="histoire"
       >
         <!-- TEXT LEFT -->
         <div
@@ -77,6 +113,11 @@
               style="color: black"
               >Histoire</strong
             >
+            <img
+              src="./image/bordereau.png"
+              alt="bordereau"
+              class="w-3/4 m-auto"
+            />
           </h2>
           <div>
             <p class="text-sm text-justify max-md:text-xs">
@@ -105,6 +146,222 @@
           />
         </div>
       </section>
+      <!-- FIN HISTOIRE -->
+      <!-- TRIPLE IMAGE -->
+      <section
+        class="h-96 w-screen flex items-center justify-center max-md:h-64"
+        style="background: url('./image/triplecafe.jpg') center/cover fixed"
+        id="menu"
+      >
+        <h2
+          class="font-MarckR text-4xl text-center flex flex-col max-md:text-3xl"
+          style="color: #d19b6f"
+        >
+          <p>Nos délicieuses</p>
+          <strong class="font-mono text-2xl max-md:text-xl" style="color: white"
+            >RECETTES</strong
+          >
+        </h2>
+      </section>
+      <!-- TRIPLE IMAGE -->
+      <!-- PLATS -->
+      <section
+        class="grid grid-cols-2 grid-rows-2 gap-6 m-4 max-md:m-2 max-md:gap-3"
+      >
+        <img
+          src="./image/plat1.jpg"
+          alt="plat1"
+          class="m-auto p-10 opacity-0 max-md:p-2 -translate-x-full duration-1600"
+          id="plat1"
+        />
+        <img
+          src="./image/plat2.jpg"
+          alt="plat2"
+          class="m-auto p-10 opacity-0 max-md:p-2 translate-x-full duration-1600"
+          id="plat2"
+        />
+        <img
+          src="./image/plat3.jpg"
+          alt="plat3"
+          class="m-auto p-10 opacity-0 max-md:p-2 -translate-x-full duration-1600"
+          id="plat3"
+        />
+        <img
+          src="./image/plat4.jpg"
+          alt="plat4"
+          class="m-auto p-10 opacity-0 max-md:p-2 translate-x-full duration-1600"
+          id="plat4"
+        />
+      </section>
+      <!-- END PLATS -->
+      <!-- MENU  -->
+
+      <section>
+        <h2
+          class="font-MarckR text-4xl text-center flex flex-col max-md:text-3xl"
+          style="color: #d19b6f"
+        >
+          <p>Consulter</p>
+          <strong class="font-mono text-2xl max-md:text-xl text-black"
+            >Notre Menu</strong
+          >
+        </h2>
+        <div class="p-5 text-sm text-center max-md:text-xs max-md:p-2">
+          <p>
+            Nous pouvons parler de notre pizza pendant des heures, mais disons
+            simplement l'essentiel : la pâte la plus fine, une mer de garnitures
+            et le tout cuit au four à bois.
+          </p>
+          <p>
+            Les salades sont tout simplement délicieuses et variées. La soupe
+            est la clé d'un bon déjeuner, et avec nos soupes, c'est garanti. Les
+            plats principaux de notre carte sont présentés du monde entier et
+            préparés avec amour...
+          </p>
+        </div>
+        <!-- EPICES NATURELLES BG IMG -->
+        <div
+          class="h-96 w-screen flex items-center justify-center max-md:h-64"
+          style="background: url('./image/menuimg.jpg') center/cover fixed"
+        ></div>
+        <!-- EPICES NATURELLES -->
+      </section>
+      <!-- END PLATS -->
+      <!-- PLAISIR CULINAIRE-->
+      <section
+        class="w-screen h-full bg-white flex max-md:flex-col max-md:items-center"
+      >
+        <!-- TEXT LEFT -->
+        <div
+          class="w-1/2 flex flex-col items-center justify-center gap-3 max-md:w-5/6 p-4"
+        >
+          <h2
+            class="font-MarckR text-4xl text-center flex flex-col max-md:text-3xl"
+            style="color: #d19b6f"
+          >
+            <p>Découvrez notre</p>
+            <strong
+              class="font-mono text-2xl max-md:text-xl"
+              style="color: black"
+              >Histoire</strong
+            >
+            <img
+              src="./image/bordereau.png"
+              alt="bordereau"
+              class="w-3/4 m-auto"
+            />
+          </h2>
+          <div class="text-sm text-center max-md:text-xs pt-2">
+            <p>
+              Et bien sûr, la cerise sur le gâteau de notre restaurant sont nos
+              sandwichs originaux, pour lesquels les convives de toute Moscou
+              viennent déjeuner chez nous.
+            </p>
+            <p>
+              Avant d'ajouter la garniture - viande, poisson, légumes, fromages,
+              diverses pâtes (tout ce qui est indiqué dans la recette que vous
+              avez choisie) - les morceaux sont généreusement tartinés de
+              beurre, de moutarde, de mayonnaise, de raifort râpé, et ainsi de
+              suite.
+            </p>
+
+            <p>
+              puis la garniture choisie est ajoutée, et enfin, un deuxième
+              morceau de pain est placé par-dessus.
+            </p>
+          </div>
+          <!-- END TEXT LEFT -->
+        </div>
+        <div
+          class="w-1/2 p-2 flex items-center gap-5 max-md:w-5/6 justify-center"
+        >
+          <img
+            class="w-5/12 h-5/6 opacity-0 -translate-x-32 duration-1600"
+            src="image/plaisir1.jpg"
+            alt="plaisir-1"
+            id="plaisir1"
+          />
+          <img
+            class="w-5/12 h-5/6 opacity-0 translate-x-32 duration-1600"
+            src="image/plaisir2.jpg"
+            alt="plaisir-2"
+            id="plaisir2"
+          />
+        </div>
+      </section>
+      <!-- FIN PLAISIR CULINAIRE -->
+      <!-- RESERVATION -->
+      <section
+        class="flex items-center justify-center bg-zinc-800 text-white p-5 text-sm"
+        id="reservation"
+      >
+        <form class="w-1/2 flex flex-col gap-2">
+          <div class="flex flex-col gap-2 items-center justify-center">
+            <h2 class="text-xl">Réservation</h2>
+            <img
+              src="./image/bordereauwhite.png"
+              alt="bordereau"
+              class="w-3/6 m-auto"
+            />
+          </div>
+          <div class="flex flex-col gap-2">
+            <label for="name">Nom</label>
+            <input
+              type="text"
+              name="name"
+              id="name"
+              class="w-full px-2 text-black"
+              placeholder="Entrez votre nom"
+            />
+          </div>
+          <div class="flex flex-col gap-2">
+            <label for="number">Téléphone</label>
+            <input
+              type="number"
+              name="number"
+              id="number"
+              placeholder="Entrez votre téléphone"
+              class="w-full px-2 text-black"
+            />
+          </div>
+          <div class="flex flex-col gap-2">
+            <label for="email">Votre e-mail</label>
+            <input
+              type="email"
+              name="email"
+              id="email"
+              placeholder="Entrez votre email"
+              class="w-full px-2 text-black"
+            />
+          </div>
+          <div class="flex flex-col gap-2">
+            <label for="nombreinvite">Nombre d'invités</label>
+            <input
+              type="number"
+              name="nombreinvite"
+              id="nombreinvite"
+              placeholder="Nombre d'invités"
+              class="w-full px-2 text-black"
+            />
+          </div>
+          <div class="flex flex-col gap-2">
+            <label for="souhaits">Vos souhaits</label>
+            <textarea
+              name="souhaits"
+              id="souhaits"
+              placeholder="Vos souhaits"
+              class="w-full py-1 px-2 text-black"
+            ></textarea>
+          </div>
+          <button
+            type="submit"
+            class="mt-2 bg-cyan-700 rounded-lg w-3/5 m-auto hover:bg-cyan-600 duration-500 hover:text-cyan-200 p-2 max-md:p-2 text-xs max-md:w-4/5"
+          >
+            Envoyer une demande
+          </button>
+        </form>
+      </section>
+      <!-- FIN RESERVATION -->
     </main>
     <!-- CORPS -->
     <footer></footer>
