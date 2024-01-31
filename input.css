@@ -45,7 +45,7 @@ body {
 /* COMPONENTS */
 
 .nav {
-  @apply fixed text-sm font-RobotoL w-screen h-12 m-auto flex justify-between items-center px-44 max-lg:px-28 flex-row max-md:px-12 duration-500 z-50;
+  @apply fixed text-lg max-md:text-sm font-RobotoL w-screen h-12 m-auto flex justify-between items-center px-44 max-lg:px-28 flex-row max-md:px-12 duration-500 z-50;
 }
 
 input {

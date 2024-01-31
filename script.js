@@ -5,9 +5,6 @@ window.onload = function () {
 // TITLE
 const title = document.getElementById("title");
 // TITLE
-// NAV
-const navbar = document.getElementById("nav");
-// NAV
 
 // TRIPLE IMAGES
 const histoire = document.getElementById("histoire");
