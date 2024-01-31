@@ -1,3 +1,7 @@
+window.onload = function () {
+  window.scrollTo(0, 0);
+};
+
 // TITLE
 const title = document.getElementById("title");
 // TITLE
@@ -35,9 +39,6 @@ const plaisir2 = document.getElementById("plaisir2");
 const nav = document.getElementById("nav");
 // END NAV
 // SCROLLING EVENTS
-window.onunload = function () {
-  window.scrollTo(0, 0);
-};
 
 let scrollPosition = 0;
 
@@ -50,7 +51,7 @@ document.addEventListener("scroll", (e) => {
   } else if (scrollY < 0.03) {
     title.style.opacity = "1";
   }
-  if (percentageScroll > 0.06) {
+  if (percentageScroll > 0.1) {
     histoire1.style.opacity = "1";
     histoire1.style.transform = "translateX(0)";
     histoire2.style.opacity = "1";
