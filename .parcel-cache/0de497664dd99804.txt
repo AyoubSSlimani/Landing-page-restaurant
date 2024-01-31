@@ -115,7 +115,7 @@
 98C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\glob\dist\esm\pattern.js.map133510056262558056 0
 115C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\sucrase\dist\util\shouldElideDefaultExport.js133510056269078000 0
 134C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\@swc\helpers\esm\_class_check_private_static_field_descriptor.js133511731681876187 0
-69C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\package.json133511732459595162 0
+69C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\package.json133511739296261046 0
 75C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\fastq133510056254657436 1
 66C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\README.md133510055291758946 0
 114C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\@parcel\utils\test\input\sourcemap\inline.js133511731675862260 0
