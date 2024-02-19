@@ -1,4 +1,4 @@
-8248
+8249
 79C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\path-type133511731639559290 1
 111C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\@parcel\core\src\requests\AssetRequest.js133511731669459378 0
 127C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\@swc\helpers\cjs\_class_static_private_field_spec_get.cjs133511731666218034 0
@@ -24,12 +24,12 @@
 97C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\yaml\dist\schema\types.d.ts133510056275617847 0
 94C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\yaml\browser\dist\schema133510056270958580 1
 110C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\sucrase\dist\parser\plugins\jsx\xhtml.js133510056271687408 0
-61C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\dist133511732986003217 1
+61C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\dist133528238681452632 1
 113C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\sucrase\dist\types\parser\plugins\flow.d.ts133510056272597344 0
 99C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\@nodelib\fs.scandir\out\types133510056256617300 1
 104C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\tailwindcss\lib\cli\build\index.js133510056269197671 0
 118C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\lmdb\node_modules\node-addon-api\tools\README.md133511731665948753 0
-67C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\index.html133510999577653757 0
+67C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\index.html133528229075528790 0
 104C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\caniuse-lite\data\features\flac.js133511731691121470 0
 106C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\tailwindcss\src\value-parser\unit.js133510056278387396 0
 100C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\yaml\dist\schema\common\seq.js133510056269477421 0
@@ -41,7 +41,7 @@
 101C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\fast-glob\out\providers\sync.js133510056259167765 0
 128C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\@swc\helpers\_\_class_apply_descriptor_update\package.json133511731687221890 0
 98C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\glob\dist\commonjs\ignore.js133510056248647893 0
-66C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\input.css133510363230263568 0
+66C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\input.css133511782432186247 0
 109C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\semver\node_modules\lru-cache\README.md133511731638561962 0
 78C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\chokidar133510056251607357 1
 88C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\chrome-trace-event133511731642840522 1
@@ -71,14 +71,7 @@
 98C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\tailwindcss\defaultConfig.js133510056265927506 0
 107C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\electron-to-chromium\full-versions.js133511731642182277 0
 64C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\LICENSE133510055291748991 0
-115C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\wrap-ansi-cjs\node_modules\ansi-regex\license133510056236327593 0
-104C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\caniuse-lite\data\features\sdch.js133511731700725795 0
-84C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\source-map\lib133511731654489386 1
-91C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\picomatch\lib\scan.js133510056246787500 0
-101C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\caniuse-lite\data\regions\PN.js133511731699179936 0
-94C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\@parcel\profiler\LICENSE133511731636218227 0
-69C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\netlify.toml133511729769322744 0
-66C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\script.js133510999625825963 0
+66C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\script.js133511787472037905 0
 69C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules133511731869195963 1
 99C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\nanoid\async\index.browser.js133510056253137793 0
 92C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\to-regex-range\LICENSE133510056238817571 0
@@ -909,6 +902,11 @@
 91C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\postcss\lib\list.d.ts133510056262717643 0
 104C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\htmlnano\docs\docusaurus.config.js133511731666786510 0
 81C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\signal-exit133510056259377465 1
+96C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\css-what\lib\es\index.d.ts133511731658817810 0
+157C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines\index.js133511731679572342 0
+120C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\resolve\test\resolver\multirepo\packages\package-a133510056267987534 1
+90C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\weak-lru-cache\tests133511731642012743 1
+106C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\@parcel\optimizer-image\package.json133511731648465488 0
 118C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\caniuse-lite\data\features\css-cascade-layers.js133511731683920723 0
 113C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\caniuse-lite\data\features\trusted-types.js133511731702221795 0
 132C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\foo133511731671464010 1
@@ -1791,6 +1789,10 @@
 91C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\json5\lib\register.js133511731643668310 0
 118C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\wrap-ansi-cjs\node_modules\ansi-regex\index.d.ts133510056242509747 0
 100C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\update-browserslist-db\LICENSE133511731629137154 0
+115C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\wrap-ansi-cjs\node_modules\ansi-regex\license133510056236327593 0
+104C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\caniuse-lite\data\features\sdch.js133511731700725795 0
+84C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\source-map\lib133511731654489386 1
+91C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\picomatch\lib\scan.js133510056246787500 0
 104C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\tailwindcss\lib\oxide\cli\index.js133510056269617318 0
 93C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\resolve\example\sync.js133510056266979028 0
 93C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\@swc\types\package.json133511731634811990 0
@@ -1822,11 +1824,6 @@
 86C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\signal-exit\dist133510056238117378 1
 151C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeUnknownsAndDefaults.js133511731675682731 0
 101C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\weak-lru-cache\rollup.config.js133511731640935613 0
-96C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\css-what\lib\es\index.d.ts133511731658817810 0
-157C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines\index.js133511731679572342 0
-120C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\resolve\test\resolver\multirepo\packages\package-a133510056267987534 1
-90C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\weak-lru-cache\tests133511731642012743 1
-106C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\@parcel\optimizer-image\package.json133511731648465488 0
 98C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\weak-lru-cache\tests\test.js133511731642272035 0
 94C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\@parcel\transformer-json133511731648056584 1
 99C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\weak-lru-cache\dist\index.cjs133511731630054703 0
@@ -2401,8 +2398,8 @@
 91C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\csso\cjs\compress.cjs133511731657660912 0
 89C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\path-key\index.d.ts133510056242918657 0
 93C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\browserslist\browser.js133511731631610549 0
-90C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\tailwindcss\lib\util133510056279187665 1
 111C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\svgo\plugins\removeUnknownsAndDefaults.js133511731678425418 0
+90C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\tailwindcss\lib\util133510056279187665 1
 102C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\glob\dist\commonjs\glob.d.ts.map133510056258288052 0
 95C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\semver\functions\major.js133511731661061814 0
 98C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\tailwindcss\lib\value-parser133510056279649984 1
@@ -2879,6 +2876,7 @@
 122C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\sucrase\dist\types\transformers\RootTransformer.d.ts133510056274477631 0
 150C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\filters.d.ts133511731665619637 0
 95C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\postcss-nested\index.d.ts133510056242327027 0
+145C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\css-select\node_modules\entities\lib\esm\generated\decode-data-xml.d.ts.map133511731665130943 0
 127C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\caniuse-lite\data\features\css-font-rendering-controls.js133511731685446631 0
 144C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\atrule\supports.js133511731682604237 0
 128C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\sucrase\dist\types\transformers\TypeScriptTransformer.d.ts133510056276307505 0
@@ -5726,7 +5724,6 @@
 140C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\css-select\node_modules\entities\lib\esm\generated\decode-data-html.js133511731640746118 0
 123C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\caniuse-lite\data\features\css-repeating-gradients.js133511731687521090 0
 141C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\css-select\node_modules\entities\lib\esm\generated\decode-data-xml.d.ts133511731675453345 0
-145C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\css-select\node_modules\entities\lib\esm\generated\decode-data-xml.d.ts.map133511731665130943 0
 139C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\css-select\node_modules\entities\lib\esm\generated\decode-data-xml.js133511731645553268 0
 143C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\css-select\node_modules\entities\lib\esm\generated\decode-data-xml.js.map133511731665988649 0
 141C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\css-select\node_modules\entities\lib\esm\generated\encode-html.d.ts.map133511731667903552 0
@@ -6198,6 +6195,8 @@
 101C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\caniuse-lite\data\regions\PA.js133511731698431921 0
 101C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\caniuse-lite\data\regions\PE.js133511731698810911 0
 101C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\caniuse-lite\data\regions\PF.js133511731698920619 0
+101C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\caniuse-lite\data\regions\PN.js133511731699179936 0
+94C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\@parcel\profiler\LICENSE133511731636218227 0
 101C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\caniuse-lite\data\regions\PS.js133511731699538970 0
 92C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\@swc\core\binding.d.ts133511731656354402 0
 101C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\caniuse-lite\data\regions\PT.js133511731699558909 0
@@ -6876,6 +6875,7 @@
 115C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\@swc\helpers\_\_get_prototype_of\package.json133511731689086906 0
 104C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\@parcel\core\src\CommittedAsset.js133511731676241240 0
 102C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\@swc\helpers\_\_get\package.json133511731689166694 0
+83C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\dist\index.67545b85.js.map133528238681432686 0
 106C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\@swc\helpers\_\_extends\package.json133511731689017089 0
 110C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\@swc\helpers\_\_export_star\package.json133511731688947277 0
 114C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\node_modules\@swc\helpers\_\_define_property\package.json133511731688837568 0
@@ -8225,11 +8225,12 @@
 80C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\dist\cafe2.af4fa6c8.jpg133511732646368542 0
 80C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\dist\index.5b8185d3.css133511732645969606 0
 79C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\dist\index.672d4772.js133511732648093923 0
+79C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\dist\index.67545b85.js133528238681243199 0
 79C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\dist\index.6dfd744c.js133511732985903486 0
 83C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\dist\index.6dfd744c.js.map133511732985973300 0
 80C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\dist\index.cf8d9795.css133511732985903486 0
 84C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\dist\index.cf8d9795.css.map133511732985973300 0
-72C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\dist\index.html133511732985893516 0
+72C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\dist\index.html133528238681243199 0
 97C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\dist\Landing-page-restaurant.3464ddca.js133511732648014130 0
 101C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\dist\Landing-page-restaurant.3464ddca.js.map133511732648054032 0
 94C:\Users\Ali\Desktop\NewProjects\Landing-page-restaurant\dist\MarckScript-Regular.ed2b57bc.ttf133511732646149114 0
